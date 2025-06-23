@@ -1,4 +1,4 @@
-# CS250-Project-2
+# CS210-Project-2
 
 # Airgead Banking App
 
